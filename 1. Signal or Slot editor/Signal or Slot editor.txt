@@ -1,0 +1,4 @@
+To activate slots and signal on the designer without programming, check at the top page in the designer in Qt, it will say Signal/Slot 
+Editor. Click ok and click an object and drag the arrow to the other object and select the action.
+
+
